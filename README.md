@@ -4,9 +4,7 @@ This application recreates the classic 9x9 Sudoku puzzle experience. Unlike simp
 
 The main goal was to decouple the game logic from the user interface, ensuring a clean and maintainable codebase.
 
-# Technical Highlights (Key Skills)
-
-This project highlights my skills in the following areas:
+# Technical Highlights
 
 * Java Fundamentals: Strong use of core Java syntax, data structures (2D Arrays), and control flow.
 * Object-Oriented Design:
